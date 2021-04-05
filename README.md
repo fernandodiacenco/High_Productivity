@@ -63,25 +63,25 @@ Interruptions: every interruption, even if it didn't became a task, should be lo
 
 Now onto the board
 
-The columns on my board that I currently have are: Bucket - Someday - Calendarize-it - Pomodoring - Waiting - Documment/Publicize - Done, I will explain each
+The columns on my board that I currently have are:<b> Bucket - Someday - Calendarize-it - Pomodoring - Waiting - Documment/Publicize - Done</b>, I will explain each
 
-BUCKET: Bucket is the entry point for new tasks, but should not be left full of tasks. The idea is that you put tasks in there and later when you have time you process those tasks into other columns, those being SOMEDAY or CALENZARIZE or straight to POMODORING, bucket should be left empty most of the time, why? imagine your boss ask you something, this task is a little higher priority than other, if you put in the bucket with 20 other tasks it might get forgotten in the bunch. Each new task into the bucket, and from the bucket next, leave the bucket empty.
+<b>BUCKET</b>: Bucket is the entry point for new tasks, but should not be left full of tasks. The idea is that you put tasks in there and later when you have time you process those tasks into other columns, those being SOMEDAY or CALENZARIZE or straight to POMODORING, bucket should be left empty most of the time, why? imagine your boss ask you something, this task is a little higher priority than other, if you put in the bucket with 20 other tasks it might get forgotten in the bunch. Each new task into the bucket, and from the bucket next, leave the bucket empty.
 
-SOMEDAY: This is for those tasks, or projects that you know it should be done but don't have priority or time limit, put it into someday and work on it when you have the time for it, or feels like doing it. More important tasks always have a time limit of some sort.
+<b>SOMEDAY</b>: This is for those tasks, or projects that you know it should be done but don't have priority or time limit, put it into someday and work on it when you have the time for it, or feels like doing it. More important tasks always have a time limit of some sort.
 
-CALENZARIZE-IT: Those are tasks that should be done, no way around it, and specially you should set a due time for them, or are those tasks that need to be done a certain time like meetings at certain day and hour. Those tasks are your priority queue, those should be done first, the SOMEDAY column should only be touched, or even looked at, if CALENZARIZE-IT is empty. There is a special tool that will help you organize tasks in this column, its called a calendar.
+<b>CALENZARIZE-IT</b>: Those are tasks that should be done, no way around it, and specially you should set a due time for them, or are those tasks that need to be done a certain time like meetings at certain day and hour. Those tasks are your priority queue, those should be done first, the SOMEDAY column should only be touched, or even looked at, if CALENZARIZE-IT is empty. There is a special tool that will help you organize tasks in this column, its called a calendar.
 
-POMODORING: I Also tend to call this column "Pomo-executing". This is the doing/executing column, why the name? to remind you to start the Pomodoro timer! When you start organizing your tasks on the Kanban and visualize the amount of trouble you're in its easy to forget Pomodoro, this is to remind you to always start the timer, and always work on the current task, no distractions, and remember, ONLY ONE TASK ON THIS COLUMN.
+<b>POMODORING</b>: I Also tend to call this column "Pomo-executing". This is the doing/executing column, why the name? to remind you to start the Pomodoro timer! When you start organizing your tasks on the Kanban and visualize the amount of trouble you're in its easy to forget Pomodoro, this is to remind you to always start the timer, and always work on the current task, no distractions, and remember, ONLY ONE TASK ON THIS COLUMN.
 
-WAITING: Those are for tasks that you started execution but had to wait, for example, a third party to do their work, an email that they need to answer, etc. You can also put here tasks that needed to be interrupted for more urgent ones as long as you remember to restart the task. Delegated tasks also go well here.
+<b>WAITING</b>: Those are for tasks that you started execution but had to wait, for example, a third party to do their work, an email that they need to answer, etc. You can also put here tasks that needed to be interrupted for more urgent ones as long as you remember to restart the task. Delegated tasks also go well here.
 
-DOCUMENT / PUBLICIZE: This should be the final stage of the task before DONE. This is to touch two sensitive areas often neglected by ourselves, those are Documentation and Personal Marketing
+<b>DOCUMENT / PUBLICIZE</b>: This should be the final stage of the task before DONE. This is to touch two sensitive areas often neglected by ourselves, those are Documentation and Personal Marketing
 
 This column does the most for you, it helps aggregate and deliver value, to you personally and to your employer
 
 Not every task can or should be documented and not every task should be publicized, use your judgment
 
-Document: There is a saying "Documentation is a pet", if you neglect it it becomes worthless when you need it, because of new versions of products or software's, and when you need to check or redo something if you need to also update you documentation, you might as well as discard it and do from zero
+<b>DOCUMENT</b>: There is a saying "Documentation is a pet", if you neglect it it becomes worthless when you need it, because of new versions of products or software's, and when you need to check or redo something if you need to also update you documentation, you might as well as discard it and do from zero
 
 There is also the lottery factor: If you won the lottery can the next person assigned to your job do it by reading your previous documentation?
 
@@ -89,7 +89,7 @@ This column is to fix that, even small things that you do for years might not be
 
 So make a best effort to document and put it in a central place for your coworkers to browse
 
-PUBLICIZE: You can fix the world in the shadows, as we in IT often do, we pull out miracles and bunnies out of a hat made of silvertape, we change the engine with the plane flying, and a million other small improvements that no one but us notice. But If a tree falls in a forest and no one is around to hear it, does it make a sound?
+<b>PUBLICIZE</b>: You can fix the world in the shadows, as we in IT often do, we pull out miracles and bunnies out of a hat made of silvertape, we change the engine with the plane flying, and a million other small improvements that no one but us notice. But If a tree falls in a forest and no one is around to hear it, does it make a sound?
 
 This is for any tasks of value, anything new, better, improved something, even a small thing, or a collection of small things, should be put here
 
