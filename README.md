@@ -21,7 +21,7 @@ To summarize, a Kanban board is a digital or physical board divided in columns t
 
 You can have the board the way you like, be physical or digital, with as many or as little columns you like, as long as you follow two simple rules
 
-1) <b>EVERYTHING on the board: You need stuff to do? to the board! You need to answer and email? board. Someone interrupted you at your desk with an urgent task? board. Anything that you set your attention to, should be at the board, the board should be the only place you look do manage tasks.
+1) <b>EVERYTHING</b> on the board: You need stuff to do? to the board! You need to answer and email? board. Someone interrupted you at your desk with an urgent task? board. Anything that you set your attention to, should be at the board, the board should be the only place you look do manage tasks.
 
 2) Only ONE task on doing column per time: You should only work on ONE task at a time, otherwise you are overwhelmed, focus on ONE at a time, if some other task is super urgent, remove the actual task from done and include the urgent one, as long as there is only one per execution.
 
