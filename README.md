@@ -21,7 +21,7 @@ To summarize, a Kanban board is a digital or physical board divided in columns t
 
 You can have the board the way you like, be physical or digital, with as many or as little columns you like, as long as you follow two simple rules
 
-1) EVERYTHING on the board: You need stuff to do? to the board! You need to answer and email? board. Someone interrupted you at your desk with an urgent task? board. Anything that you set your attention to, should be at the board, the board should be the only place you look do manage tasks.
+1) <b>EVERYTHING on the board: You need stuff to do? to the board! You need to answer and email? board. Someone interrupted you at your desk with an urgent task? board. Anything that you set your attention to, should be at the board, the board should be the only place you look do manage tasks.
 
 2) Only ONE task on doing column per time: You should only work on ONE task at a time, otherwise you are overwhelmed, focus on ONE at a time, if some other task is super urgent, remove the actual task from done and include the urgent one, as long as there is only one per execution.
 
@@ -49,13 +49,13 @@ I have also many recurring tasks, mostly related to maintenance that I need to d
 
 I use kanboard.org as my Kanban tool, but you can use whatever you like
 
-There are three tasks that are recurring and need to be done each week both at work and at home: The "10 MINUTE TIDY UP", the "NO ZERO DAY", and the "TECH DAY"
+There are three tasks that are recurring and need to be done each week both at work and at home: The "<b>10 MINUTE TIDY UP</b>", the "<b>NO ZERO DAY</b>", and the "<b>TECH DAY</b>"
 
-The 10m Tidy Up: At the start of each week (or day if you feel like it) you start a 10m timer and start cleaning up your workstation and around it, you should stop at the 10m mark and continue only on the next iteration. You will realize that you can clean up A LOT MORE than you think you can in 10m. Keeping your workstation organized only brings benefits and its cumulative
+<b>The 10m Tidy Up</b>: At the start of each week (or day if you feel like it) you start a 10m timer and start cleaning up your workstation and around it, you should stop at the 10m mark and continue only on the next iteration. You will realize that you can clean up A LOT MORE than you think you can in 10m. Keeping your workstation organized only brings benefits and its cumulative
 
-The NO ZERO DAY: Every day you should do something to achieve something you want to do, even if its one paragraph of that book you're putting off for ages that's not a zero anymore, regardless of what is or how little you do it, should not be zero. This task works better for home or self improvement
+<b>The NO ZERO DAY</b>: Every day you should do something to achieve something you want to do, even if its one paragraph of that book you're putting off for ages that's not a zero anymore, regardless of what is or how little you do it, should not be zero. This task works better for home or self improvement
 
-The TECH DAY: Every week you should bring something new to your employer/boss/whatever in a timeboxed meeting, something interesting that you read, a new technology around, the great new something that promises so solve everything, a pet project, ideas for improvements, anything that you bring is not an *ahem* zero, even if its not actionable at the very least will help improve communication and shows that you are interested in improving the environment around you
+<b>The TECH DAY</b>: Every week you should bring something new to your employer/boss/whatever in a timeboxed meeting, something interesting that you read, a new technology around, the great new something that promises so solve everything, a pet project, ideas for improvements, anything that you bring is not an *ahem* zero, even if its not actionable at the very least will help improve communication and shows that you are interested in improving the environment around you
 
 And there is a type of task that should go straight to execution, "the less than 5 minutes task": if a task takes less than 5 minutes to execute to completion, just do it, don't let it fill up your queue, if you believe it will take more than 5 minutes, onto the bucket it goes.
 
