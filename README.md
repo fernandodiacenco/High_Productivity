@@ -105,3 +105,17 @@ DONE: This is of course the done column, You can clean it up in your own time, I
 <b>CONCLUSION</b>
 
 As it is with everyone I started organizing my work taking notes on a pad, each little box containing a task, and then I hit a bottleneck in my capacity to deliver more work in less time, which prompted me to ask around how others organize themselves and study how to improve. This is a culmination of all the lessons I learned in my journey and I hope this document helps the reader in organizing him/herself for better results, either at home or at work.
+
+---
+
+<b>REFERENCES</b>
+
+REFERENCES
+
+Kanban                - https://en.wikipedia.org/wiki/Kanban_(development)
+Pomodoro Technique    - https://francescocirillo.com/pages/pomodoro-technique
+Getting Things Done   - https://gettingthingsdone.com/
+Kanboard              - https://kanboard.org
+No Zero Days          - https://www.reddit.com/r/getdisciplined/comments/1q96b5/i_just_dont_care_about_myself/cdah4af/
+Theory of Constraints - https://en.wikipedia.org/wiki/Theory_of_constraints
+5S Methodology        - https://www.graphicproducts.com/articles/what-is-5s/
