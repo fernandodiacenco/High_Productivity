@@ -110,8 +110,6 @@ As it is with everyone I started organizing my work taking notes on a pad, each 
 
 <b>REFERENCES</b>
 
-REFERENCES
-
 Kanban                - https://en.wikipedia.org/wiki/Kanban_(development)<br/>
 Pomodoro Technique    - https://francescocirillo.com/pages/pomodoro-technique<br/>
 Getting Things Done   - https://gettingthingsdone.com/<br/>
