@@ -111,7 +111,7 @@ As it is with everyone I started organizing my work taking notes on a pad, each 
 <b>REFERENCES</b>
 
 REFERENCES
-
+<div style="text-align: right">
 Kanban                - https://en.wikipedia.org/wiki/Kanban_(development)<br/>
 Pomodoro Technique    - https://francescocirillo.com/pages/pomodoro-technique<br/>
 Getting Things Done   - https://gettingthingsdone.com/<br/>
@@ -119,3 +119,4 @@ Kanboard              - https://kanboard.org<br/>
 No Zero Days          - https://www.reddit.com/r/getdisciplined/comments/1q96b5/i_just_dont_care_about_myself/cdah4af/<br/>
 Theory of Constraints - https://en.wikipedia.org/wiki/Theory_of_constraints<br/>
 5S Methodology        - https://www.graphicproducts.com/articles/what-is-5s/<br/>
+</div>
